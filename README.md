@@ -17,7 +17,7 @@ Cette approche est pertinente pour des projets nécessitant une transcription fi
 Cependant, elle implique une dépendance à Internet, un coût lié à l’utilisation de l’API, et une circulation des données vocales via les serveurs Google, ce qui peut soulever des enjeux de confidentialité.  
 
 ## Prérequis
-* Python 3.8 ou supérieur
+* Python 3 ou supérieur
 * Microphone fonctionnel
 * Clé API [OpenRouteur](https://openrouter.ai/)
 
